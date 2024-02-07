@@ -1,6 +1,6 @@
-# simple_ecommerce_app
+# Simple E-Commerce App
 
-A eCommerce App with simple minimal functional
+This is a simple e-commerce application project to learn about the utilization of Provider state management
 
 ## Getting Started
 
